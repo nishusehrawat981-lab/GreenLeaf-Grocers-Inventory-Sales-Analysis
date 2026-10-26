@@ -1,0 +1,241 @@
+Order_ID,Order_Date,Product_ID,Product_Name,Category,Units_Sold,Unit_Price_INR,Revenue_INR,Opening_Stock,Reorder_Level,Closing_Stock,Supplier,Region
+GL-00061,2025-01-01,P014,Green Tea,Beverages,17,180,3060,153,32,131,Daily Dairy Ltd.,East
+GL-00195,2025-01-04,P002,Bananas,Fresh Produce,7,40,280,73,21,65,Golden Bakehouse,East
+GL-00046,2025-01-05,P017,Potato Chips,Snacks,18,35,630,73,18,54,Golden Bakehouse,North
+GL-00140,2025-01-08,P015,Dish Soap,Household,5,95,475,87,35,81,FreshFarm Co.,West
+GL-00200,2025-01-11,P013,Orange Juice,Beverages,11,110,1210,56,34,42,Golden Bakehouse,North
+GL-00087,2025-01-11,P007,Yogurt Pack,Dairy,5,80,400,65,19,57,FreshFarm Co.,Central
+GL-00027,2025-01-11,P011,Wheat Flour 5kg,Pantry,18,260,4680,64,33,45,FreshFarm Co.,North
+GL-00001,2025-01-13,P004,Spinach,Fresh Produce,9,28,252,66,22,56,FreshFarm Co.,Central
+GL-00228,2025-01-14,P012,Olive Oil 1L,Pantry,14,480,6720,41,27,23,Golden Bakehouse,South
+GL-00097,2025-01-15,P011,Wheat Flour 5kg,Pantry,16,260,4160,143,25,126,Harvest Pantry,South
+GL-00155,2025-01-18,P015,Dish Soap,Household,12,95,1140,128,19,116,Golden Bakehouse,East
+GL-00051,2025-01-19,P018,Mixed Nuts,Snacks,12,210,2520,109,32,96,Harvest Pantry,South
+GL-00208,2025-01-20,P015,Dish Soap,Household,2,95,190,82,24,80,FreshFarm Co.,Central
+GL-00059,2025-01-20,P009,Croissants,Bakery,4,75,300,111,28,105,Golden Bakehouse,West
+GL-00198,2025-01-22,P013,Orange Juice,Beverages,14,110,1540,37,29,23,Golden Bakehouse,Central
+GL-00163,2025-01-24,P005,Whole Milk,Dairy,2,62,124,73,30,71,FreshFarm Co.,South
+GL-00016,2025-01-25,P003,Tomatoes,Fresh Produce,4,35,140,54,35,49,Harvest Pantry,Central
+GL-00233,2025-01-25,P004,Spinach,Fresh Produce,8,28,224,88,35,76,Harvest Pantry,North
+GL-00169,2025-01-26,P001,Organic Apples,Fresh Produce,11,55,605,66,19,51,Daily Dairy Ltd.,North
+GL-00012,2025-01-29,P011,Wheat Flour 5kg,Pantry,8,260,2080,140,16,130,Harvest Pantry,East
+GL-00038,2025-01-30,P007,Yogurt Pack,Dairy,18,80,1440,42,25,24,FreshFarm Co.,Central
+GL-00118,2025-01-31,P003,Tomatoes,Fresh Produce,6,35,210,136,24,126,ClearHome Supplies,East
+GL-00183,2025-01-31,P018,Mixed Nuts,Snacks,18,210,3780,106,25,83,FreshFarm Co.,West
+GL-00077,2025-02-02,P007,Yogurt Pack,Dairy,14,80,1120,87,25,69,Harvest Pantry,West
+GL-00062,2025-02-05,P014,Green Tea,Beverages,11,180,1980,114,25,98,FreshFarm Co.,East
+GL-00116,2025-02-06,P015,Dish Soap,Household,8,95,760,153,23,140,ClearHome Supplies,South
+GL-00044,2025-02-07,P004,Spinach,Fresh Produce,18,28,504,62,31,42,Daily Dairy Ltd.,East
+GL-00110,2025-02-07,P016,Paper Towels,Household,2,130,260,54,19,48,Golden Bakehouse,North
+GL-00158,2025-02-08,P015,Dish Soap,Household,5,95,475,131,22,121,Harvest Pantry,Central
+GL-00219,2025-02-09,P005,Whole Milk,Dairy,10,62,620,143,18,129,ClearHome Supplies,Central
+GL-00229,2025-02-11,P013,Orange Juice,Beverages,12,110,1320,63,15,49,FreshFarm Co.,East
+GL-00211,2025-02-13,P011,Wheat Flour 5kg,Pantry,17,260,4420,117,20,100,Daily Dairy Ltd.,West
+GL-00159,2025-02-16,P012,Olive Oil 1L,Pantry,13,480,6240,36,23,19,FreshFarm Co.,West
+GL-00182,2025-02-16,P003,Tomatoes,Fresh Produce,3,35,105,46,28,43,Golden Bakehouse,South
+GL-00217,2025-02-17,P017,Potato Chips,Snacks,14,35,490,100,26,86,Golden Bakehouse,East
+GL-00214,2025-02-18,P011,Wheat Flour 5kg,Pantry,18,260,4680,121,27,101,Golden Bakehouse,Central
+GL-00108,2025-02-22,P016,Paper Towels,Household,1,130,130,108,24,104,Harvest Pantry,West
+GL-00226,2025-02-22,P018,Mixed Nuts,Snacks,17,210,3570,143,18,124,FreshFarm Co.,South
+GL-00185,2025-02-23,P012,Olive Oil 1L,Pantry,17,480,8160,62,19,40,Harvest Pantry,South
+GL-00201,2025-02-24,P014,Green Tea,Beverages,8,180,1440,90,33,79,ClearHome Supplies,North
+GL-00117,2025-02-28,P014,Green Tea,Beverages,18,180,3240,63,35,44,Golden Bakehouse,South
+GL-00060,2025-03-01,P017,Potato Chips,Snacks,13,35,455,150,33,136,Golden Bakehouse,North
+GL-00111,2025-03-02,P008,Brown Bread,Bakery,18,45,810,132,28,110,ClearHome Supplies,Central
+GL-00196,2025-03-03,P011,Wheat Flour 5kg,Pantry,1,260,260,98,28,96,Daily Dairy Ltd.,West
+GL-00072,2025-03-04,P008,Brown Bread,Bakery,15,45,675,52,29,32,ClearHome Supplies,Central
+GL-00119,2025-03-05,P015,Dish Soap,Household,15,95,1425,123,24,103,Harvest Pantry,East
+GL-00107,2025-03-06,P018,Mixed Nuts,Snacks,9,210,1890,40,16,27,Golden Bakehouse,South
+GL-00172,2025-03-09,P001,Organic Apples,Fresh Produce,1,55,55,80,22,75,Golden Bakehouse,North
+GL-00239,2025-03-10,P011,Wheat Flour 5kg,Pantry,2,260,520,80,32,76,Daily Dairy Ltd.,West
+GL-00164,2025-03-11,P018,Mixed Nuts,Snacks,13,210,2730,93,26,75,ClearHome Supplies,West
+GL-00230,2025-03-12,P005,Whole Milk,Dairy,2,62,124,71,30,64,Daily Dairy Ltd.,West
+GL-00133,2025-03-16,P018,Mixed Nuts,Snacks,13,210,2730,59,34,42,Daily Dairy Ltd.,North
+GL-00204,2025-03-16,P004,Spinach,Fresh Produce,9,28,252,60,20,47,Daily Dairy Ltd.,North
+GL-00021,2025-03-20,P007,Yogurt Pack,Dairy,12,80,960,132,20,116,ClearHome Supplies,North
+GL-00005,2025-03-21,P009,Croissants,Bakery,7,75,525,157,25,150,FreshFarm Co.,West
+GL-00114,2025-03-22,P003,Tomatoes,Fresh Produce,8,35,280,57,32,49,Daily Dairy Ltd.,North
+GL-00221,2025-03-25,P005,Whole Milk,Dairy,6,62,372,141,34,134,Harvest Pantry,North
+GL-00089,2025-03-25,P004,Spinach,Fresh Produce,10,28,280,48,33,38,Golden Bakehouse,Central
+GL-00157,2025-03-26,P009,Croissants,Bakery,9,75,675,151,30,140,Golden Bakehouse,North
+GL-00036,2025-03-26,P002,Bananas,Fresh Produce,13,40,520,35,27,20,Harvest Pantry,East
+GL-00144,2025-03-27,P015,Dish Soap,Household,10,95,950,150,15,140,Golden Bakehouse,North
+GL-00067,2025-03-28,P016,Paper Towels,Household,3,130,390,71,31,63,ClearHome Supplies,East
+GL-00146,2025-03-29,P006,Cheddar Cheese,Dairy,6,145,870,45,34,36,ClearHome Supplies,South
+GL-00156,2025-03-31,P014,Green Tea,Beverages,7,180,1260,51,32,42,ClearHome Supplies,Central
+GL-00054,2025-04-01,P006,Cheddar Cheese,Dairy,14,145,2030,38,20,19,Golden Bakehouse,West
+GL-00094,2025-04-01,P014,Green Tea,Beverages,17,180,3060,158,35,139,ClearHome Supplies,Central
+GL-00109,2025-04-05,P011,Wheat Flour 5kg,Pantry,2,260,520,67,30,65,FreshFarm Co.,West
+GL-00236,2025-04-06,P014,Green Tea,Beverages,3,180,540,102,26,99,ClearHome Supplies,Central
+GL-00168,2025-04-08,P009,Croissants,Bakery,4,75,300,156,29,152,Daily Dairy Ltd.,Central
+GL-00064,2025-04-09,P005,Whole Milk,Dairy,14,62,868,120,27,101,Daily Dairy Ltd.,Central
+GL-00106,2025-04-10,P004,Spinach,Fresh Produce,10,28,280,64,26,53,Golden Bakehouse,North
+GL-00225,2025-04-13,P006,Cheddar Cheese,Dairy,5,145,725,146,23,141,Harvest Pantry,East
+GL-00056,2025-04-13,P008,Brown Bread,Bakery,15,45,675,79,24,63,Daily Dairy Ltd.,North
+GL-00078,2025-04-16,P002,Bananas,Fresh Produce,14,40,560,84,33,65,FreshFarm Co.,Central
+GL-00170,2025-04-17,P018,Mixed Nuts,Snacks,7,210,1470,139,22,130,Daily Dairy Ltd.,Central
+GL-00010,2025-04-18,P012,Olive Oil 1L,Pantry,9,480,4320,124,35,115,ClearHome Supplies,South
+GL-00013,2025-04-19,P003,Tomatoes,Fresh Produce,11,35,385,62,35,48,Harvest Pantry,West
+GL-00025,2025-04-19,P014,Green Tea,Beverages,18,180,3240,131,21,108,Golden Bakehouse,West
+GL-00218,2025-04-20,P006,Cheddar Cheese,Dairy,11,145,1595,156,30,144,Daily Dairy Ltd.,South
+GL-00190,2025-04-21,P017,Potato Chips,Snacks,13,35,455,88,29,73,Daily Dairy Ltd.,East
+GL-00071,2025-04-23,P014,Green Tea,Beverages,6,180,1080,137,31,128,FreshFarm Co.,Central
+GL-00101,2025-04-24,P010,Rice 5kg,Pantry,13,320,4160,123,22,108,ClearHome Supplies,East
+GL-00086,2025-04-25,P012,Olive Oil 1L,Pantry,3,480,1440,134,35,131,FreshFarm Co.,South
+GL-00131,2025-04-26,P003,Tomatoes,Fresh Produce,4,35,140,94,18,85,Daily Dairy Ltd.,West
+GL-00028,2025-04-28,P002,Bananas,Fresh Produce,3,40,120,150,16,145,FreshFarm Co.,Central
+GL-00068,2025-05-01,P003,Tomatoes,Fresh Produce,10,35,350,63,21,52,FreshFarm Co.,North
+GL-00035,2025-05-02,P003,Tomatoes,Fresh Produce,6,35,210,87,30,78,Daily Dairy Ltd.,West
+GL-00100,2025-05-04,P018,Mixed Nuts,Snacks,16,210,3360,117,30,98,FreshFarm Co.,North
+GL-00030,2025-05-05,P016,Paper Towels,Household,16,130,2080,138,28,121,FreshFarm Co.,North
+GL-00011,2025-05-06,P018,Mixed Nuts,Snacks,6,210,1260,94,27,86,ClearHome Supplies,South
+GL-00045,2025-05-06,P003,Tomatoes,Fresh Produce,12,35,420,71,20,56,ClearHome Supplies,East
+GL-00238,2025-05-10,P012,Olive Oil 1L,Pantry,1,480,480,80,17,77,Daily Dairy Ltd.,North
+GL-00085,2025-05-10,P014,Green Tea,Beverages,3,180,540,95,15,87,ClearHome Supplies,North
+GL-00074,2025-05-13,P015,Dish Soap,Household,8,95,760,142,35,132,ClearHome Supplies,West
+GL-00098,2025-05-13,P012,Olive Oil 1L,Pantry,11,480,5280,70,34,54,Golden Bakehouse,Central
+GL-00173,2025-05-16,P006,Cheddar Cheese,Dairy,2,145,290,51,28,45,FreshFarm Co.,North
+GL-00014,2025-05-16,P005,Whole Milk,Dairy,5,62,310,66,32,57,Golden Bakehouse,Central
+GL-00055,2025-05-17,P008,Brown Bread,Bakery,6,45,270,135,18,126,FreshFarm Co.,West
+GL-00188,2025-05-20,P006,Cheddar Cheese,Dairy,10,145,1450,152,25,140,FreshFarm Co.,South
+GL-00207,2025-05-21,P010,Rice 5kg,Pantry,2,320,640,80,31,78,Golden Bakehouse,West
+GL-00075,2025-05-21,P008,Brown Bread,Bakery,15,45,675,44,24,28,Golden Bakehouse,East
+GL-00171,2025-05-22,P001,Organic Apples,Fresh Produce,5,55,275,51,32,44,Daily Dairy Ltd.,North
+GL-00049,2025-05-22,P014,Green Tea,Beverages,2,180,360,35,25,32,Golden Bakehouse,South
+GL-00096,2025-05-23,P003,Tomatoes,Fresh Produce,15,35,525,66,29,47,ClearHome Supplies,West
+GL-00029,2025-05-23,P008,Brown Bread,Bakery,16,45,720,62,32,45,ClearHome Supplies,Central
+GL-00123,2025-05-23,P015,Dish Soap,Household,6,95,570,109,28,98,Harvest Pantry,North
+GL-00194,2025-05-26,P004,Spinach,Fresh Produce,16,28,448,102,24,86,Daily Dairy Ltd.,West
+GL-00129,2025-05-28,P005,Whole Milk,Dairy,15,62,930,147,30,132,FreshFarm Co.,Central
+GL-00235,2025-05-30,P005,Whole Milk,Dairy,14,62,868,35,34,19,Daily Dairy Ltd.,Central
+GL-00150,2025-06-04,P015,Dish Soap,Household,7,95,665,84,30,77,Daily Dairy Ltd.,West
+GL-00052,2025-06-07,P002,Bananas,Fresh Produce,12,40,480,150,16,136,Daily Dairy Ltd.,South
+GL-00063,2025-06-08,P017,Potato Chips,Snacks,14,35,490,76,27,57,Golden Bakehouse,Central
+GL-00202,2025-06-08,P013,Orange Juice,Beverages,11,110,1210,63,25,51,FreshFarm Co.,Central
+GL-00181,2025-06-10,P004,Spinach,Fresh Produce,14,28,392,75,23,59,Daily Dairy Ltd.,West
+GL-00104,2025-06-11,P007,Yogurt Pack,Dairy,4,80,320,130,32,121,Daily Dairy Ltd.,South
+GL-00042,2025-06-11,P017,Potato Chips,Snacks,9,35,315,61,25,51,Golden Bakehouse,West
+GL-00126,2025-06-11,P003,Tomatoes,Fresh Produce,9,35,315,76,18,64,ClearHome Supplies,North
+GL-00177,2025-06-14,P003,Tomatoes,Fresh Produce,5,35,175,43,19,36,ClearHome Supplies,Central
+GL-00210,2025-06-14,P007,Yogurt Pack,Dairy,16,80,1280,99,19,83,Harvest Pantry,North
+GL-00191,2025-06-16,P010,Rice 5kg,Pantry,3,320,960,148,16,144,Daily Dairy Ltd.,Central
+GL-00084,2025-06-17,P013,Orange Juice,Beverages,7,110,770,93,25,84,Harvest Pantry,East
+GL-00215,2025-06-20,P005,Whole Milk,Dairy,3,62,186,109,19,104,Golden Bakehouse,West
+GL-00136,2025-06-20,P012,Olive Oil 1L,Pantry,18,480,8640,132,32,111,Harvest Pantry,East
+GL-00141,2025-06-23,P009,Croissants,Bakery,13,75,975,118,17,103,ClearHome Supplies,West
+GL-00124,2025-06-28,P016,Paper Towels,Household,14,130,1820,77,25,58,FreshFarm Co.,South
+GL-00186,2025-06-29,P004,Spinach,Fresh Produce,18,28,504,82,18,62,ClearHome Supplies,South
+GL-00031,2025-07-01,P014,Green Tea,Beverages,14,180,2520,87,29,68,FreshFarm Co.,North
+GL-00053,2025-07-01,P004,Spinach,Fresh Produce,18,28,504,148,28,126,Daily Dairy Ltd.,South
+GL-00145,2025-07-03,P010,Rice 5kg,Pantry,12,320,3840,90,19,77,ClearHome Supplies,West
+GL-00006,2025-07-03,P004,Spinach,Fresh Produce,12,28,336,112,23,100,Harvest Pantry,Central
+GL-00222,2025-07-06,P014,Green Tea,Beverages,8,180,1440,159,29,147,Golden Bakehouse,West
+GL-00007,2025-07-13,P004,Spinach,Fresh Produce,3,28,84,105,24,97,ClearHome Supplies,East
+GL-00009,2025-07-14,P004,Spinach,Fresh Produce,9,28,252,93,35,82,Daily Dairy Ltd.,East
+GL-00209,2025-07-16,P017,Potato Chips,Snacks,15,35,525,109,32,89,FreshFarm Co.,West
+GL-00017,2025-07-17,P003,Tomatoes,Fresh Produce,13,35,455,111,29,94,Golden Bakehouse,Central
+GL-00081,2025-07-19,P001,Organic Apples,Fresh Produce,11,55,605,120,27,104,Daily Dairy Ltd.,West
+GL-00090,2025-07-23,P013,Orange Juice,Beverages,7,110,770,44,33,32,Daily Dairy Ltd.,North
+GL-00057,2025-07-24,P007,Yogurt Pack,Dairy,11,80,880,70,17,57,Golden Bakehouse,Central
+GL-00032,2025-07-26,P002,Bananas,Fresh Produce,11,40,440,137,18,125,Daily Dairy Ltd.,South
+GL-00065,2025-07-27,P010,Rice 5kg,Pantry,18,320,5760,141,15,121,Golden Bakehouse,South
+GL-00213,2025-07-29,P013,Orange Juice,Beverages,11,110,1210,121,34,110,Golden Bakehouse,North
+GL-00125,2025-07-30,P011,Wheat Flour 5kg,Pantry,16,260,4160,71,27,51,FreshFarm Co.,West
+GL-00165,2025-08-01,P005,Whole Milk,Dairy,4,62,248,141,30,133,Harvest Pantry,East
+GL-00193,2025-08-01,P015,Dish Soap,Household,9,95,855,62,31,53,Golden Bakehouse,West
+GL-00134,2025-08-01,P009,Croissants,Bakery,11,75,825,154,31,141,FreshFarm Co.,East
+GL-00019,2025-08-11,P010,Rice 5kg,Pantry,6,320,1920,93,15,82,Golden Bakehouse,Central
+GL-00026,2025-08-13,P012,Olive Oil 1L,Pantry,17,480,8160,92,18,74,Daily Dairy Ltd.,North
+GL-00034,2025-08-15,P003,Tomatoes,Fresh Produce,18,35,630,47,16,24,ClearHome Supplies,North
+GL-00149,2025-08-15,P003,Tomatoes,Fresh Produce,12,35,420,110,24,93,Harvest Pantry,East
+GL-00073,2025-08-15,P011,Wheat Flour 5kg,Pantry,17,260,4420,89,32,69,Daily Dairy Ltd.,West
+GL-00174,2025-08-18,P016,Paper Towels,Household,12,130,1560,100,33,88,Harvest Pantry,Central
+GL-00004,2025-08-18,P008,Brown Bread,Bakery,9,45,405,138,15,128,Harvest Pantry,East
+GL-00033,2025-08-18,P018,Mixed Nuts,Snacks,5,210,1050,89,20,82,Harvest Pantry,South
+GL-00115,2025-08-19,P014,Green Tea,Beverages,16,180,2880,72,16,55,Golden Bakehouse,East
+GL-00227,2025-08-19,P009,Croissants,Bakery,17,75,1275,53,28,36,Daily Dairy Ltd.,West
+GL-00180,2025-08-20,P014,Green Tea,Beverages,8,180,1440,87,25,76,Harvest Pantry,West
+GL-00127,2025-08-25,P018,Mixed Nuts,Snacks,14,210,2940,41,21,23,Golden Bakehouse,Central
+GL-00224,2025-08-25,P015,Dish Soap,Household,10,95,950,134,27,120,ClearHome Supplies,West
+GL-00088,2025-08-27,P007,Yogurt Pack,Dairy,9,80,720,133,26,123,ClearHome Supplies,Central
+GL-00095,2025-08-27,P016,Paper Towels,Household,14,130,1820,140,33,124,Golden Bakehouse,South
+GL-00161,2025-08-30,P008,Brown Bread,Bakery,1,45,45,114,32,111,ClearHome Supplies,South
+GL-00138,2025-08-31,P011,Wheat Flour 5kg,Pantry,13,260,3380,84,35,70,Harvest Pantry,North
+GL-00069,2025-09-01,P008,Brown Bread,Bakery,3,45,135,93,28,85,ClearHome Supplies,South
+GL-00079,2025-09-02,P013,Orange Juice,Beverages,1,110,110,155,26,152,Harvest Pantry,West
+GL-00176,2025-09-03,P002,Bananas,Fresh Produce,13,40,520,89,18,73,Harvest Pantry,North
+GL-00105,2025-09-05,P007,Yogurt Pack,Dairy,9,80,720,127,33,114,ClearHome Supplies,East
+GL-00093,2025-09-08,P014,Green Tea,Beverages,4,180,720,90,26,81,Harvest Pantry,South
+GL-00022,2025-09-08,P011,Wheat Flour 5kg,Pantry,1,260,260,49,26,46,Daily Dairy Ltd.,North
+GL-00070,2025-09-11,P013,Orange Juice,Beverages,13,110,1430,66,19,48,FreshFarm Co.,North
+GL-00234,2025-09-13,P004,Spinach,Fresh Produce,18,28,504,37,35,15,ClearHome Supplies,South
+GL-00039,2025-09-15,P016,Paper Towels,Household,17,130,2210,55,16,34,FreshFarm Co.,South
+GL-00139,2025-09-15,P005,Whole Milk,Dairy,11,62,682,146,18,132,FreshFarm Co.,Central
+GL-00020,2025-09-17,P006,Cheddar Cheese,Dairy,4,145,580,146,35,140,ClearHome Supplies,Central
+GL-00237,2025-09-17,P017,Potato Chips,Snacks,18,35,630,37,27,16,FreshFarm Co.,West
+GL-00132,2025-09-18,P010,Rice 5kg,Pantry,9,320,2880,88,30,76,Daily Dairy Ltd.,West
+GL-00099,2025-09-22,P001,Organic Apples,Fresh Produce,7,55,385,45,22,33,Harvest Pantry,West
+GL-00112,2025-09-25,P008,Brown Bread,Bakery,13,45,585,92,29,77,ClearHome Supplies,West
+GL-00212,2025-09-26,P015,Dish Soap,Household,17,95,1615,113,20,94,Golden Bakehouse,East
+GL-00203,2025-09-29,P004,Spinach,Fresh Produce,17,28,476,59,26,40,Daily Dairy Ltd.,South
+GL-00223,2025-10-01,P008,Brown Bread,Bakery,8,45,360,74,30,65,Golden Bakehouse,Central
+GL-00120,2025-10-04,P017,Potato Chips,Snacks,16,35,560,91,17,71,FreshFarm Co.,West
+GL-00076,2025-10-04,P011,Wheat Flour 5kg,Pantry,3,260,780,52,19,48,Harvest Pantry,South
+GL-00080,2025-10-07,P018,Mixed Nuts,Snacks,8,210,1680,97,22,87,Harvest Pantry,West
+GL-00232,2025-10-08,P005,Whole Milk,Dairy,17,62,1054,89,18,70,Daily Dairy Ltd.,East
+GL-00050,2025-10-10,P015,Dish Soap,Household,14,95,1330,106,15,92,FreshFarm Co.,South
+GL-00102,2025-10-11,P016,Paper Towels,Household,17,130,2210,79,28,57,ClearHome Supplies,East
+GL-00047,2025-10-11,P004,Spinach,Fresh Produce,5,28,140,69,24,60,Daily Dairy Ltd.,East
+GL-00187,2025-10-15,P014,Green Tea,Beverages,18,180,3240,38,34,15,Golden Bakehouse,North
+GL-00189,2025-10-17,P005,Whole Milk,Dairy,13,62,806,43,19,25,FreshFarm Co.,North
+GL-00152,2025-10-17,P001,Organic Apples,Fresh Produce,2,55,110,151,34,144,Harvest Pantry,East
+GL-00023,2025-10-18,P008,Brown Bread,Bakery,3,45,135,45,30,42,ClearHome Supplies,South
+GL-00113,2025-10-19,P010,Rice 5kg,Pantry,2,320,640,113,18,110,Daily Dairy Ltd.,East
+GL-00199,2025-10-21,P014,Green Tea,Beverages,13,180,2340,125,35,109,Golden Bakehouse,North
+GL-00151,2025-10-22,P012,Olive Oil 1L,Pantry,10,480,4800,124,24,114,Harvest Pantry,East
+GL-00041,2025-10-24,P008,Brown Bread,Bakery,2,45,90,114,17,109,ClearHome Supplies,Central
+GL-00066,2025-10-24,P014,Green Tea,Beverages,11,180,1980,94,29,80,Daily Dairy Ltd.,Central
+GL-00015,2025-10-26,P014,Green Tea,Beverages,13,180,2340,81,22,67,ClearHome Supplies,West
+GL-00147,2025-10-26,P016,Paper Towels,Household,5,130,650,64,29,54,Golden Bakehouse,West
+GL-00135,2025-10-28,P010,Rice 5kg,Pantry,16,320,5120,145,19,126,ClearHome Supplies,West
+GL-00002,2025-10-30,P003,Tomatoes,Fresh Produce,14,35,490,39,15,25,Daily Dairy Ltd.,South
+GL-00040,2025-11-01,P003,Tomatoes,Fresh Produce,3,35,105,121,22,115,FreshFarm Co.,Central
+GL-00216,2025-11-01,P005,Whole Milk,Dairy,3,62,186,74,32,68,Golden Bakehouse,South
+GL-00003,2025-11-05,P017,Potato Chips,Snacks,1,35,35,106,21,100,ClearHome Supplies,West
+GL-00121,2025-11-06,P011,Wheat Flour 5kg,Pantry,9,260,2340,38,17,28,ClearHome Supplies,Central
+GL-00179,2025-11-06,P017,Potato Chips,Snacks,14,35,490,47,18,28,ClearHome Supplies,South
+GL-00153,2025-11-07,P008,Brown Bread,Bakery,12,45,540,63,35,50,ClearHome Supplies,East
+GL-00175,2025-11-11,P008,Brown Bread,Bakery,2,45,90,128,31,124,Harvest Pantry,North
+GL-00231,2025-11-12,P015,Dish Soap,Household,1,95,95,150,17,149,Golden Bakehouse,South
+GL-00082,2025-11-15,P005,Whole Milk,Dairy,18,62,1116,38,27,16,ClearHome Supplies,North
+GL-00142,2025-11-17,P011,Wheat Flour 5kg,Pantry,16,260,4160,146,32,130,ClearHome Supplies,North
+GL-00128,2025-11-17,P016,Paper Towels,Household,15,130,1950,132,16,116,Golden Bakehouse,Central
+GL-00154,2025-11-18,P005,Whole Milk,Dairy,4,62,248,150,35,141,FreshFarm Co.,East
+GL-00205,2025-11-18,P006,Cheddar Cheese,Dairy,16,145,2320,94,33,74,Harvest Pantry,Central
+GL-00206,2025-11-18,P011,Wheat Flour 5kg,Pantry,11,260,2860,54,29,43,Harvest Pantry,West
+GL-00240,2025-11-20,P016,Paper Towels,Household,6,130,780,138,19,132,Harvest Pantry,North
+GL-00143,2025-11-20,P008,Brown Bread,Bakery,10,45,450,64,17,51,FreshFarm Co.,North
+GL-00162,2025-11-22,P003,Tomatoes,Fresh Produce,15,35,525,151,24,131,Harvest Pantry,North
+GL-00083,2025-11-26,P003,Tomatoes,Fresh Produce,14,35,490,52,29,37,FreshFarm Co.,East
+GL-00024,2025-12-04,P005,Whole Milk,Dairy,16,62,992,156,32,139,Golden Bakehouse,Central
+GL-00092,2025-12-05,P014,Green Tea,Beverages,12,180,2160,43,31,26,Golden Bakehouse,North
+GL-00220,2025-12-05,P002,Bananas,Fresh Produce,11,40,440,147,34,135,ClearHome Supplies,West
+GL-00184,2025-12-07,P012,Olive Oil 1L,Pantry,14,480,6720,146,16,130,ClearHome Supplies,East
+GL-00148,2025-12-08,P009,Croissants,Bakery,1,75,75,150,29,147,ClearHome Supplies,South
+GL-00043,2025-12-10,P005,Whole Milk,Dairy,10,62,620,93,25,83,FreshFarm Co.,West
+GL-00122,2025-12-11,P001,Organic Apples,Fresh Produce,9,55,495,108,16,98,Harvest Pantry,Central
+GL-00160,2025-12-11,P012,Olive Oil 1L,Pantry,9,480,4320,109,27,95,Golden Bakehouse,North
+GL-00192,2025-12-12,P002,Bananas,Fresh Produce,3,40,120,69,29,61,Harvest Pantry,West
+GL-00058,2025-12-14,P013,Orange Juice,Beverages,18,110,1980,77,15,59,Golden Bakehouse,South
+GL-00018,2025-12-15,P001,Organic Apples,Fresh Produce,4,55,220,122,32,116,Golden Bakehouse,North
+GL-00091,2025-12-17,P010,Rice 5kg,Pantry,4,320,1280,136,33,132,Golden Bakehouse,Central
+GL-00167,2025-12-18,P004,Spinach,Fresh Produce,12,28,336,104,35,90,FreshFarm Co.,West
+GL-00048,2025-12-18,P007,Yogurt Pack,Dairy,9,80,720,99,30,88,FreshFarm Co.,North
+GL-00166,2025-12-20,P002,Bananas,Fresh Produce,12,40,480,62,29,47,Daily Dairy Ltd.,East
+GL-00037,2025-12-23,P014,Green Tea,Beverages,18,180,3240,119,30,100,Daily Dairy Ltd.,East
+GL-00137,2025-12-24,P007,Yogurt Pack,Dairy,8,80,640,108,27,99,Harvest Pantry,North
+GL-00103,2025-12-26,P012,Olive Oil 1L,Pantry,15,480,7200,69,24,52,Daily Dairy Ltd.,North
+GL-00197,2025-12-27,P018,Mixed Nuts,Snacks,8,210,1680,99,32,86,Golden Bakehouse,North
+GL-00008,2025-12-27,P007,Yogurt Pack,Dairy,3,80,240,40,22,35,FreshFarm Co.,South
+GL-00130,2025-12-30,P008,Brown Bread,Bakery,6,45,270,74,32,68,ClearHome Supplies,West
+GL-00178,2025-12-31,P018,Mixed Nuts,Snacks,11,210,2310,83,34,68,Golden Bakehouse,West
